@@ -6,21 +6,32 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 6 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (3)
+- [math](#math) (1)
+- [strings](#strings) (2)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 
 ### greedy
@@ -28,6 +39,27 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 
 ---
 
