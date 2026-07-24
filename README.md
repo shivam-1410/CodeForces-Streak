@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 7 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (7)
-- [math](#math) (1)
+- [implementation](#implementation) (8)
+- [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (4)
 
@@ -50,6 +50,7 @@
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
@@ -59,6 +60,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 
 ### sortings
 
