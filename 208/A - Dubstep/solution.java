@@ -1,21 +1,22 @@
-import java.util.Scanner;
+import java.util.*;
  
-public class DubstepSong {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String s = sc.nextLine().trim();
  
-        String replaced = s.replace("WUB", " ");
-        String[] words = replaced.trim().split("\\s+");
+        String s = sc.next();
  
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < words.length; i++) {
-            sb.append(words[i]);
-            if (i != words.length - 1) {
-                sb.append(" ");
+        String[] words = s.split("(WUB)+");
+        ArrayList<String> ans = new ArrayList<>();
+ 
+        for (String word : words) {
+            if (!word.isEmpty()) {
+                ans.add(word);
             }
         }
  
-        System.out.println(sb.toString());
+        System.out.println(String.join(" ", ans));
+ 
+        sc.close();
     }
 }
