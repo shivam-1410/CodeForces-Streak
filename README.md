@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 7 |
+| 16 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (7)
@@ -51,6 +51,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/136/A%20-%20Presents/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
