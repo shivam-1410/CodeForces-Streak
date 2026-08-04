@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 10 |
+| 20 | 10 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (15)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (16)
 - [math](#math) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -57,6 +57,7 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 
 ### implementation
 
@@ -77,6 +78,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 
 ### math
 
