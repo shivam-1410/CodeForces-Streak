@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 11 |
+| 25 | 11 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (20)
+- [implementation](#implementation) (21)
 - [math](#math) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (8)
+- [strings](#strings) (9)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -85,6 +85,7 @@
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 731A | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/731/A%20-%20Night%20at%20the%20Museum/solution.java) |
 
 ### math
 
@@ -117,6 +118,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 731A | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/731/A%20-%20Night%20at%20the%20Museum/solution.java) |
 
 ### two pointers
 
