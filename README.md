@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 11 |
+| 28 | 11 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (22)
-- [math](#math) (4)
+- [implementation](#implementation) (23)
+- [math](#math) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
@@ -67,6 +67,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
@@ -94,6 +95,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
