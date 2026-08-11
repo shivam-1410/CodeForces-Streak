@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 11 |
+| 29 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (23)
-- [math](#math) (5)
+- [math](#math) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
@@ -98,6 +98,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/200/B%20-%20Drinks/solution.py) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
 
 ### shortest paths
