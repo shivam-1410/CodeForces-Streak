@@ -6,22 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 12 |
+| 34 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (26)
+- [implementation](#implementation) (27)
 - [math](#math) (7)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (1)
 
@@ -40,6 +40,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.java) |
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 
@@ -100,6 +101,7 @@
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 731A | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/731/A%20-%20Night%20at%20the%20Museum/solution.java) |
 
@@ -126,6 +128,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.java) |
 
 ### strings
 
