@@ -6,16 +6,37 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (1)
+- [combinatorics](#combinatorics) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 
 ---
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.java) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.java) |
 
 ### greedy
 
@@ -28,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.java) |
+| 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.java) |
 
 ---
 
