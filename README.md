@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 14 |
+| 38 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (30)
+- [implementation](#implementation) (31)
 - [math](#math) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
@@ -119,6 +119,7 @@
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.java) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.java) |
 | 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
