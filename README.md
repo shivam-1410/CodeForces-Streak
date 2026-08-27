@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 15 |
+| 40 | 16 |
 
 ---
 
@@ -14,11 +14,12 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (2)
+- [games](#games) (1)
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (8)
 - [implementation](#implementation) (31)
@@ -50,6 +51,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.java) |
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.java) |
 | 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.java) |
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
@@ -71,6 +73,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.java) |
 
 ### dp
 
@@ -78,6 +81,12 @@
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.java) |
 
 ### graph matchings
 
