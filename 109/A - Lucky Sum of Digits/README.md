@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/109/problem/A" target="_blank" rel="noopener noreferrer">109A — Lucky Sum of Digits</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1000 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 109A](https://codeforces.com/contest/109/problem/A) |
+
+## Topics
+`brute force` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Lucky Sum of Digits</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p><span class="tex-font-style-underline">Petya loves lucky numbers. We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits <span class="tex-font-style-bf">4</span> and <span class="tex-font-style-bf">7</span>. For example, numbers <span class="tex-font-style-bf">47</span>, <span class="tex-font-style-bf">744</span>, <span class="tex-font-style-bf">4</span> are lucky and <span class="tex-font-style-bf">5</span>, <span class="tex-font-style-bf">17</span>, <span class="tex-font-style-bf">467</span> are not.</span></p><p>Petya wonders eagerly what minimum lucky number has the sum of digits equal to <span class="tex-span"><i>n</i></span>. Help him cope with the task.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The single line contains an integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">6</sup></span>) — the sum of digits of the required lucky number.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print on the single line the result — the minimum lucky number, whose sum of digits equals <span class="tex-span"><i>n</i></span>. If such number does not exist, print -1.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0033387327109642184" id="id003316301179520409" class="input-output-copier">Copy</div></div><pre id="id0033387327109642184">11<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00006251487551216961" id="id006099729762797351" class="input-output-copier">Copy</div></div><pre id="id00006251487551216961">47<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003274628339483401" id="id00029143006525566117" class="input-output-copier">Copy</div></div><pre id="id003274628339483401">10<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id002904742320898971" id="id005192686642114938" class="input-output-copier">Copy</div></div><pre id="id002904742320898971">-1<br></pre></div></div></div>
