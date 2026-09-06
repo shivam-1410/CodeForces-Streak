@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 16 |
+| 44 | 16 |
 
 ---
 
@@ -21,9 +21,9 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (34)
-- [math](#math) (7)
+- [math](#math) (8)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (10)
@@ -102,6 +102,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.java) |
 | 369A | [Valera and Plates](https://codeforces.com/contest/369/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/369/A%20-%20Valera%20and%20Plates/solution.java) |
@@ -157,6 +158,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/200/B%20-%20Drinks/solution.py) |
+| 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.java) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.java) |
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
