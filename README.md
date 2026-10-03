@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 17 |
+| 48 | 18 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (10)
+- [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (2)
 - [games](#games) (1)
@@ -25,10 +25,11 @@
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (35)
 - [math](#math) (9)
+- [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (10)
-- [two pointers](#two-pointers) (2)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -58,6 +59,7 @@
 | 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.java) |
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/1364/A%20-%20XXXXX/solution.java) |
 
 ### combinatorics
 
@@ -76,6 +78,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/1364/A%20-%20XXXXX/solution.java) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 
 ### dfs and similar
@@ -175,6 +178,12 @@
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.java) |
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
 
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/1364/A%20-%20XXXXX/solution.java) |
+
 ### shortest paths
 
 | # | Problem | Difficulty | Solution |
@@ -211,6 +220,7 @@
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Java 21](https://github.com/shivam-1410/Codeforces-Streak/blob/HEAD/1364/A%20-%20XXXXX/solution.java) |
 
 ---
 
